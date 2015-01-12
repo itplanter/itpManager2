@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-12-23T13:31:43</date>
+  <millis>1356237103017</millis>
+  <sequence>249</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>sendCom</class>
+  <method>sendcom</method>
+  <thread>10</thread>
+  <message> -e %</message>
+</record>
+</log>

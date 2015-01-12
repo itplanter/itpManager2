@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="US-ASCII" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448556</millis>
+  <sequence>538</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>camera_time_table 1 DUMMY_PLANTER</message>
+</record>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448558</millis>
+  <sequence>539</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>camera_time_table 2 /Users/sakaguti/Documents/workspace/itpManager/itpManagerInstall/Mac/itpManager/data/Mac/DUMMY_PLANTERcamSch.txt</message>
+</record>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448559</millis>
+  <sequence>540</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>cameta_time_table /Users/sakaguti/Documents/workspace/itpManager/itpManagerInstall/Mac/itpManager/data/Mac/DUMMY_PLANTERcamSch.txt has saved</message>
+</record>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448560</millis>
+  <sequence>541</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>setTimeTable</method>
+  <thread>14</thread>
+  <message>timeTable: 00:00:00</message>
+</record>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448560</millis>
+  <sequence>542</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>setTimeTable</method>
+  <thread>14</thread>
+  <message>timeTable: 11:00:00</message>
+</record>
+<record>
+  <date>2014-05-10T09:07:28</date>
+  <millis>1399680448561</millis>
+  <sequence>543</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>14</thread>
+  <message>TPT_processing:Take Picture Time Table making 1:</message>
+</record>
+</log>

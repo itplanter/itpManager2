@@ -1,0 +1,51 @@
+Planter DUMMY_PLANTER
+Serial 000000
+Camera yes
+
+CamNo 0
+CamName CAM-1
+WhiteLEDTime 50
+PumpBoostTime 60
+PCAutoTime 60
+ManualAutoTime 60
+TempCorrect 0.0
+IllumCorrect 1.0
+Resolution 800X600
+CultivationMode day
+
+Reports	Water Temp Illum 12:00
+PhotoHolder ./
+
+
+AutoPicture periodic 12
+RecordSensor 100
+RecordFile ./record.txt
+SensingPeriodSec 100
+Planter ITPLANTER-0
+Serial 0000000
+Camera yes
+CamNo 0
+CamName CAM-0
+TempCorrect 0.0
+IllumCorrect 1.0
+WhiteLEDTime 100
+PumpBoostTime 60
+PCAutoTime 60
+ManualAutoTime 60
+Resolution 800X600
+CultivationMode day
+Reports	Water Temp Illum 12:0
+Reports 
+
+PhotoHolder ./
+AutoPicture periodic 1
+
+2
+RecordSensor 100
+
+RecordFile ./record.txt
+
+
+SensingPeriodSec 10
+SensingPeriodSec 100
+

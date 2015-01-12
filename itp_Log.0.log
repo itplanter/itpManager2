@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-04-18T18:14:08</date>
+  <millis>1366276448012</millis>
+  <sequence>538</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>camera_time_table 1 DUMMY_PLANTER</message>
+</record>
+<record>
+  <date>2013-04-18T18:14:08</date>
+  <millis>1366276448015</millis>
+  <sequence>539</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>camera_time_table 2 /Users/sakaguti/Documents/workspace/itpManager/data/Mac/DUMMY_PLANTERcamSch.txt</message>
+</record>
+<record>
+  <date>2013-04-18T18:14:08</date>
+  <millis>1366276448016</millis>
+  <sequence>540</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>14</thread>
+  <message>cameta_time_table /Users/sakaguti/Documents/workspace/itpManager/data/Mac/DUMMY_PLANTERcamSch.txt has saved</message>
+</record>
+<record>
+  <date>2013-04-18T18:14:08</date>
+  <millis>1366276448017</millis>
+  <sequence>541</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>setTimeTable</method>
+  <thread>14</thread>
+  <message>timeTable: 00:00:00</message>
+</record>
+<record>
+  <date>2013-04-18T18:14:08</date>
+  <millis>1366276448018</millis>
+  <sequence>542</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>14</thread>
+  <message>TPT_processing:Take Picture Time Table making 1:</message>
+</record>
+<record>
+  <date>2013-04-18T18:14:11</date>
+  <millis>1366276451757</millis>
+  <sequence>5673</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>PlanterSelecter</class>
+  <method>mouseClicked</method>
+  <thread>14</thread>
+  <message>Command: Z
+error :  device not found!
+</message>
+</record>
+</log>

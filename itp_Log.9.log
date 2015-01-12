@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230131</millis>
+  <sequence>506</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>11</thread>
+  <message>camera_time_table 1 ITPLANTER-0</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230137</millis>
+  <sequence>507</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>11</thread>
+  <message>camera_time_table 2 /Users/sakaguti/Documents/workspace/itpManager/data/Mac/ITPLANTER-0camSch.txt</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230137</millis>
+  <sequence>508</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>saveCameraTimeTable</method>
+  <thread>11</thread>
+  <message>cameta_time_table /Users/sakaguti/Documents/workspace/itpManager/data/Mac/ITPLANTER-0camSch.txt has saved</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230138</millis>
+  <sequence>509</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>setTimeTable</method>
+  <thread>11</thread>
+  <message>timeTable: 12:0:00</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230138</millis>
+  <sequence>510</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>11</thread>
+  <message>TPT_processing:Take Picture Time Table making 1:</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230138</millis>
+  <sequence>511</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>11</thread>
+  <message>TPT_processing 4: setTime=Thu Apr 18 12:00:00 JST 2013 ITPLANTER-0_Cam-0_DATE_.bmp</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230139</millis>
+  <sequence>512</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>11</thread>
+  <message>TPT_processing 5: TimerTask new start ITPLANTER-0_Cam-0_DATE_.bmp</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230139</millis>
+  <sequence>513</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>11</thread>
+  <message>TPT_processing 6: TimerTask new end</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:10</date>
+  <millis>1366244230641</millis>
+  <sequence>514</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>CameraCapture</class>
+  <method>TPT_processing</method>
+  <thread>11</thread>
+  <message>TPT_processing 7: TimerTask :12 0 save schedule at : Thu Apr 18 12:00:00 JST 2013</message>
+</record>
+<record>
+  <date>2013-04-18T09:17:16</date>
+  <millis>1366244236289</millis>
+  <sequence>4434</sequence>
+  <logger>itp_Logger</logger>
+  <level>INFO</level>
+  <class>PlanterSelecter</class>
+  <method>mouseClicked</method>
+  <thread>11</thread>
+  <message>Command: Z
+1207000437
+
+</message>
+</record>
+</log>
